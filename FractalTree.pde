@@ -4,7 +4,6 @@ private double branchAngle = .2;
 private boolean on = false;
 private boolean start = false;
 private int count = 0;
-private boolean plantFood = false;
 public void setup() 
 {   
 	size(640,480); 
@@ -44,8 +43,7 @@ public void draw()
     branchAngle = Math.random()*0.3 + 0.2;
     fractionLength = Math.random()*0.1 + 0.75;
     if(on == true){
-      //drawBranches(320,380,100,3*Math.PI/2);  //will add later 
-      drawBranches(320, 380, branchLength, angle);  //will add later 
+      drawBranches(320, 380, branchLength, angle);
       frameRate(15);
     }else{
       drawBranches(320, 380, branchLength, angle);
