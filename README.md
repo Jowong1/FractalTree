@@ -1,6 +1,11 @@
 Fractal Tree
 ============
 
+Try out my program: https://objectjosh.github.io/Minesweeper/
+-----------------------------------
+
+Prompt and Instructions:
+
 How to draw a tree  
 
 ![alt text](tree.JPG)  
