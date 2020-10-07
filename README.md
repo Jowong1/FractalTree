@@ -1,7 +1,7 @@
 Fractal Tree
 ============
 
-Try out my program: https://objectjosh.github.io/Minesweeper/
+Try out my program: https://objectjosh.github.io/FractalTree/
 -----------------------------------
 
 Prompt and Instructions:
